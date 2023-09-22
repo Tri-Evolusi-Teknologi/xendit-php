@@ -50,6 +50,12 @@ class EwalletType
     public const GCASH = 'GCASH';
     
     public const GRABPAY = 'GRABPAY';
+
+    public const ASTRAPAY = 'ASTRAPAY'
+    
+    public const NEXCASH = 'NEXCASH';
+
+    public const JENIUSPAY = 'JENIUSPAY';
     
 
     private $value;
@@ -86,7 +92,10 @@ class EwalletType
             self::PAYMAYA,
             self::SHOPEEPAY,
             self::GCASH,
-            self::GRABPAY
+            self::GRABPAY,
+            self::ASTRAPAY,
+            self::NEXCASH,
+            self::JENIUSPAY
         ];
     }
 }
