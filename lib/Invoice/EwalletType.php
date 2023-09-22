@@ -51,7 +51,7 @@ class EwalletType
     
     public const GRABPAY = 'GRABPAY';
 
-    public const ASTRAPAY = 'ASTRAPAY'
+    public const ASTRAPAY = 'ASTRAPAY';
     
     public const NEXCASH = 'NEXCASH';
 
