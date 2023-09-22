@@ -55,10 +55,6 @@ class BankCode
     
     public const CIMB = "CIMB";
 
-    public const BSI = "BSI";
-    
-    public const BJB = "BJB";
-
     public const BNC = "BNC";
     
     
