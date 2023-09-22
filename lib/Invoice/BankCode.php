@@ -92,7 +92,10 @@ class BankCode
             self::MANDIRI,
             self::PERMATA,
             self::BSI,
-            self::BJB
+            self::BJB,
+            self::CIMB,
+            self::BNC,
+            self::SAHABAT_SAMPOERNA
         ];
     }
 }
